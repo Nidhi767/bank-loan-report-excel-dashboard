@@ -89,13 +89,13 @@ The dashboard uses clickable navigation buttons created with Excel hyperlinks.
 ## Screenshots
 
 ### Summary Dashboard
-![Summary Dashboard](dashboard/screenshots/summary_page.png)
+![Summary Dashboard](summary_page.png)
 
 ### Overview Dashboard
-![Overview Dashboard](dashboard/screenshots/overview_page.png)
+![Overview Dashboard](overview_page.png)
 
 ### Details Dashboard
-![Details Dashboard](dashboard/screenshots/details.png)
+![Details Dashboard](details.png)
 ---
 
 ## Key Insights
